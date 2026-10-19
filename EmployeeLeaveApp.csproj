@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk"> <!--[cite: 2] -->
+  <PropertyGroup> <!--[cite: 2] -->
+    <OutputType>WinExe</OutputType> <!--[cite: 2] -->
+    <TargetFramework>net10.0-windows</TargetFramework> <!--[cite: 2] -->
+    <UseWindowsForms>true</UseWindowsForms> <!--[cite: 2] -->
+    <ImplicitUsings>enable</ImplicitUsings> <!--[cite: 2] -->
+    <Nullable>enable</Nullable> <!--[cite: 2] -->
+    <RootNamespace>EmployeeLeaveApp</RootNamespace> <!--[cite: 2] -->
+    <AssemblyName>EmployeeLeaveApp</AssemblyName> <!--[cite: 2] -->
+  </PropertyGroup> <!--[cite: 2] -->
+  <ItemGroup> <!--[cite: 2] -->
+    <PackageReference Include="ClosedXML" Version="0.104.2" /> <!--[cite: 2] -->
+  </ItemGroup> <!--[cite: 2] -->
+</Project> <!--[cite: 2] -->
