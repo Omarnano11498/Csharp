@@ -1,7 +1,7 @@
 namespace EmployeeLeaveApp {
     public static class AppConfig {
-        public const string ExcelFilePath = @"C:\Users\Omarpc\Desktop\EmployeeServices2.xlsx";
-        public const string CompanyName = "شركة مصر للتعمير - إدارة نظم المعلومات";
+        public const string ExcelFilePath = @"C:\Users\pc\Desktop\EmployeeServices2.xlsx";
+        public const string CompanyName = "شركة";
         public const int MaxExitPermitsPerMonth = 2;
         public const int MaxMissionsPerMonth = 2;
         
